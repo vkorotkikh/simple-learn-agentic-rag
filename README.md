@@ -1,6 +1,8 @@
 # 🤖 Agentic RAG System
 
-A sophisticated Retrieval-Augmented Generation (RAG) system using multiple specialized agents powered by LangChain and Pydantic. This implementation features recursive and semantic chunking, document reranking, and comprehensive RAG evaluation using RAGAS.
+A simplified, easy to prototype test Retrieval-Augmented Generation (RAG) system using multiple specialized agents powered by LangChain and Pydantic. This implementation features recursive and semantic chunking, document reranking, and comprehensive RAG evaluation using RAGAS.
+
+This testbed systems serves more as a learning and experimental demonstrator of how AI Agents can be utilized to enhance RAG pipelines.
 
 ## 🌟 Features
 
